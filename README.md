@@ -31,5 +31,5 @@
 
 <h3> &nbsp;Contact</h3> 
 
-[![Linkedin: Victor Aguiar](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-aguiar-ribeiro)](https://www.linkedin.com/in/victor-aguiar-ribeiro)
+[![Linkedin: Victor Aguiar](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-aguiar-ribeiro)](https://www.linkedin.com/in/v-aguiar)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:v.aguiar.dev@gmail.com)](mailto:v.aguiar.dev@gmail.com)
