@@ -1,6 +1,6 @@
 <h3> &nbsp;About me </h3>
 
-- &nbsp; Jr. Software Developer at <a href="https://goblockchain.io/">GoBlockchain</a>
+- &nbsp; Software Developer at <a href="https://goblockchain.io/">GoBlockchain</a>
 - &nbsp; Graduate of the Full-Stack Web Development Bootcamp by <a href="driven.com.br">Driven Education</a>
 - &nbsp; Mechatronics Engineering Undergraduate at <a href="https://www.ufsj.edu.br/">Federal University of São João del Rei</a>
 
@@ -19,11 +19,8 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
 
