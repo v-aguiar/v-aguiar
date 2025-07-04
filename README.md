@@ -2,7 +2,7 @@
 
 - &nbsp; Software Developer at <a href="https://goblockchain.io/">GoBlockchain</a>
 - &nbsp; Graduate of the Full-Stack Web Development Bootcamp by <a href="driven.com.br">Driven Education</a>
-- &nbsp; Mechatronics Engineering Undergraduate at <a href="https://www.ufsj.edu.br/">Federal University of São João del Rei</a>
+- &nbsp; Software Engineering Undergraduate</a>
 
 <h3> &nbsp;My skills</h3>
 
